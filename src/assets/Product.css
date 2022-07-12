@@ -1,0 +1,24 @@
+
+.CircularProgressbar .CircularProgressbar-trail {
+	stroke: #323a45;
+}
+
+.CircularProgressbar .CircularProgressbar-path {
+	stroke: #03ffa4;
+	stroke-linecap: butt;
+}
+
+.d-square-black {
+    color: black !important;
+    border-radius: 0px !important;
+}
+
+.d-square-white {
+    color: white !important;
+    border-radius: 0px !important;
+}
+
+.d-square-highlight {
+    color: #03ffa4 !important;
+    border-radius: 0px !important;
+}

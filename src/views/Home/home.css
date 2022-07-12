@@ -1,0 +1,51 @@
+
+
+.img-box-home1 {
+	background: url("../../assets/imgs/home1.png") no-repeat center;
+	background-size: cover;
+}
+
+.img-box-home2 {
+	background: url("../../assets/imgs/home2.png") no-repeat center;
+	background-size: cover;
+}
+
+.img-box-home3 {
+	background-color: black;
+	background-size: cover;
+}
+
+.img-box-home4 {
+	background: url("../../assets/imgs/home4.png") no-repeat center;
+	background-size: cover;
+}
+
+.img-box-home4-left {
+	background: url("../../assets/imgs/homr4-left.png") no-repeat right;
+	background-size: cover;
+}
+
+.img-box-home4-right {
+	background: url("../../assets/imgs/homr4-right.png") no-repeat left;
+	background-size: cover;
+}
+
+.img-box-home5 {
+	background: url("../../assets/imgs/home5_1.png") no-repeat center;
+	background-size: cover;
+}
+
+.img-box-home6 {
+	background: url("../../assets/imgs/home6.png") no-repeat center;
+	background-size: cover;
+}
+
+.img-box-home7 {
+	background-color: #33454d;
+	background-size: cover;
+}
+
+.img-box-home8 {
+	background: url("../../assets/imgs/team.jpg") no-repeat center;
+	background-size: cover;
+}
